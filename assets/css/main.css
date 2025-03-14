@@ -1737,3 +1737,12 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.flex-container {
+			display: flex;
+			justify-content: space-around;
+		}
+
+		.about_content{
+			margin-right: 35px;
+		}
